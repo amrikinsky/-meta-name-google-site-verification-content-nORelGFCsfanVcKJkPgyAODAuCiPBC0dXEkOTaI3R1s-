@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="nORelGFCsfanVcKJkPgyAODAuCiPBC0dXEkOTaI3R1s" />
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/amrikinsky/.github-stale.yml/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
